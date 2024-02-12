@@ -10,8 +10,12 @@ github.com/12yanogden/slices v0.0.0-20240118220809-517c75f85e9b h1:h3vWngbBOVP45
 github.com/12yanogden/slices v0.0.0-20240118220809-517c75f85e9b/go.mod h1:BcDPSyCoYNXgaX13TJZH3bw+1LwQ0khJo9bXeNb7Ii8=
 github.com/12yanogden/spinners v0.0.0-20240119135110-dc75cc3cb704 h1:NqpA1mj7gcfPG0549PhpPKnAdRCzjrB8X0+VX2qyS64=
 github.com/12yanogden/spinners v0.0.0-20240119135110-dc75cc3cb704/go.mod h1:Tr8oh79BkLH1snINT0jYKS2cuYV+riHdovD7uFJT744=
+github.com/12yanogden/spinners v0.0.0-20240212021941-775208382555 h1:XQDE3tZGXUx1//LPHDUS+KB7HH4Cx2N7eSET1KlBQC0=
+github.com/12yanogden/spinners v0.0.0-20240212021941-775208382555/go.mod h1:/IWeTUmpnowmEVX88xodrm7/jjaJbI/Qw+zX2ouDsOw=
 github.com/12yanogden/statusbar v0.0.0-20240128173718-d5acca47732b h1:E0C4CE3FtgiXtgiJIQzghomtcucq42/vFK4jw+mHXuM=
 github.com/12yanogden/statusbar v0.0.0-20240128173718-d5acca47732b/go.mod h1:OZvrCpFI0tK9nm+8TIQWv7byPeyeLENVNUCV8y4QYzI=
+github.com/12yanogden/statusbar v0.0.0-20240212023140-e7d1c4d11430 h1:tqOUjDfcIcPNyB/hFcpb4L8+4H6zavV0XZ27csYcBxg=
+github.com/12yanogden/statusbar v0.0.0-20240212023140-e7d1c4d11430/go.mod h1:HG+gRZfP1HZANrjbLzc+mDUpJJazfqZ8Gleok5QTpHE=
 github.com/12yanogden/str v0.0.0-20240107171210-9eee80c43f5a h1:mCcPlN6jLf5TBMm8Etb8gtmAon6Igs7wMAuTwJ5Rq/I=
 github.com/12yanogden/str v0.0.0-20240107171210-9eee80c43f5a/go.mod h1:0pVQTrVf1oySdEszgDPyMktYVFyf4VDYtuBlDgevyw4=
 github.com/12yanogden/strslices v0.0.0-20240119012840-ffc0a17fcd27 h1:PuR0KRN4M35+NLdnMEYOGMypQfSch5Wokjs8bbRuHCA=
